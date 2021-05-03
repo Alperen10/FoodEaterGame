@@ -1,2 +1,1 @@
 # FoodEaterGame
-Try a game
